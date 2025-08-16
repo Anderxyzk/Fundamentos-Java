@@ -1,2 +1,2 @@
-# Java-01
-Simple projects using basics from Java. 
+# Aprendendo Java
+Aprendendo o básico da sintaxe e como a linguagem funciona
